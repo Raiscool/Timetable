@@ -1,0 +1,42 @@
+h1 {
+
+  font-family: cursive;
+  font-size: 70px;
+  color: #0b7819;
+}
+
+body {
+  background-color:	#cce7e8;
+}
+
+.clock {
+  margin-right: 200px;
+  float: right;
+  width: 200px;
+  margin-top: 1px;
+  float:
+}
+
+hr {
+  border: dotted;
+  border-bottom: none;
+  width: 100%;
+  margin: 100px auto
+  color: #b3ffeb;
+}
+
+ol {
+  font-size: 22px;
+}
+
+p {
+  font-size: 22px;
+}
+
+.first-image {
+  width: 100%
+}
+
+.handy {
+  width: 100%;
+}
